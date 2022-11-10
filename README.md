@@ -7,7 +7,7 @@
   <img height="100" height="auto" src="https://user-images.githubusercontent.com/50621007/192454529-b8070948-6592-4022-96d9-b2adf7169243.png">
 </p>
 
-# nois node setup for testnet — nois-testnet-003
+# Nois testnet guide V003
 
 Dokumentasi resmi:
 >- [Validator setup instructions](https://docs.nois.network/use-cases/for-validators)
