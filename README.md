@@ -1,7 +1,6 @@
-<p style="font-size:14px" align="center">
-<img src="https://user-images.githubusercontent.com/108946833/184274157-08210464-fa03-493d-b01c-2420c67a524f.jpg" width="30"/> <a href="https://twitter.com/BeritaCryptoo" target="_blank">Twitter BeritaCryptoo</a>
-<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/> <a href="https://t.me/BeritaCryptoo" target="_blank">Telegram BeritaCryptoo</a>
-<img src="https://user-images.githubusercontent.com/108946833/201040868-61a5cfb9-f39e-4fd1-a3a6-2c15c1b47424.png" width="30"/> <a href="https://discord.gg/Q2M54pCK" target="_blank">Discrod BeritaCryptoo</a>
+
+<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/> <a href=" https://t.me/ssipalingtestnet" target="_blank">Telegram Sipaling Testnet</a>
+
 </p><hr>
 
 <p align="center">
