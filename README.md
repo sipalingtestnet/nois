@@ -30,8 +30,8 @@ Explorer:
 | ------------ | ------------ |
 | OS | Ubuntu 20.04 |
 
-## Siapkan fullnode Mande Anda
-Anda dapat mengatur nois fullnode Anda dalam beberapa menit dengan menggunakan skrip otomatis di bawah ini. Ini akan meminta Anda untuk memasukkan nama node validator Anda!
+## Auto_install script
+Copy Perintah Dibawah ini lalu buat nama validator jika di minta!
 ```
 wget -O nois.sh https://raw.githubusercontent.com/sipalingtestnet/nois/main/nois.sh && chmod +x nois.sh && ./nois.sh
 ```
@@ -43,7 +43,7 @@ Ketika instalasi selesai, silakan muat variabel ke dalam sistem
 source $HOME/.bash_profile
 ```
 
-Next you have to make sure your validator is syncing blocks. You can use command below to check synchronization status
+Selanjutnya Anda harus memastikan validator Anda menyinkronkan blok. Anda dapat menggunakan perintah di bawah ini untuk memeriksa status sinkronisasi
 ```
 noisd status 2>&1 | jq .SyncInfo
 ```
